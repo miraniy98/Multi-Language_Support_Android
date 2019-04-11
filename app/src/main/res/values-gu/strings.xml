@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi-language Support</string>
+
+    <string name="welcome">સ્વાગત છે</string>
+    <string name="email">ઈ-મેલ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="login">પ્રવેશ કરો</string>
+    <string name="signup">ખાતું નથી? સાઇન અપ કરો!</string>
+    <string name="changeLang">ભાષા બદલો</string>
+</resources>
